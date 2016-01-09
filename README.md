@@ -4,7 +4,7 @@
 
 # Requirements
 
-    Install giter8 using instructions [here](https://github.com/n8han/giter8#installation).
+    Install giter8 using their [helpful instructions](https://github.com/n8han/giter8#installation).
 
 # Use
 
